@@ -62,6 +62,38 @@ h1, h2, h3, h4, h5 {
     font-family: 'Rubik', sans-serif;
 }
 
+header {
+    
+    margin-bottom: 10%;
+    margin-top: 2%;
+    
+}
+
+.lambdaheader img {
+    float:left;
+     
+}
+
+ul {
+    list-style-type: none;
+    margin-left:0px;
+    padding-left:0px;
+    display: inline-block;
+       
+}
+
+li {
+    text-align: right; 
+    display:inline-block;
+    padding: 0;
+    margin: 20px 30px;
+}
+
+.lambdaheader a {
+    text-decoration: none;
+    color: black;
+}
+
 p {
     line-height: 1.4;
 }
@@ -110,6 +142,46 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#box1 {
+    background: teal;
+}
+
+#box2 {
+    background: gold;
+}
+
+#box3 {
+    background: cadetblue;
+}
+
+#box4 {
+    background: coral;
+}
+
+#box5 {
+    background: crimson;
+}
+
+#box6 {
+    background: forestgreen;
+} 
+
+#box7 {
+    background: darkorchid;
+}
+
+#box8 {
+    background: hotpink;
+}
+
+#box9 {
+    background: indigo;
+}
+
+#box10 {
+    background: dodgerblue;
 }
 
 .bottom-content {
